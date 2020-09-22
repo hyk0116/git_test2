@@ -11,6 +11,6 @@ public class Hello {
 		this.message=message;
 	}
 	public void say() {
-		System.out.println(message+"aaa");
+		System.out.println(message);
 	}
 }
