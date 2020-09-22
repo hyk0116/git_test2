@@ -1,7 +1,9 @@
 package git_test2;
 
 public class Hello {
+	String message ="æ»≥Á«œºº";
 	public void say() {
-		System.out.println("æ»≥Á«œººø‰");
+		System.out.println(message);
+		
 	}
 }
